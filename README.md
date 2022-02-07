@@ -1,6 +1,4 @@
-# To-Do List Web App
-
-## Descripción del Proyecto
+# To-Do List
 
 Aplicación web basica de una lista de que haceres realizada en Java.
 
