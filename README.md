@@ -4,13 +4,13 @@ Aplicación web basica de una lista de que haceres desarrollada en Java.
 
 ### Tecnologias Utilizadas
 
-####BackEnd:
+#### BackEnd:
 - Java
 - Jsp
 - MySQL
 - Apache Tom Cat
 
-####FrontEnd:
+#### FrontEnd:
 - Javascript
 - JQuery
 - HTML
